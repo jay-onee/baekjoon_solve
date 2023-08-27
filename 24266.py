@@ -2,4 +2,4 @@
 
 n = int(input())
 
-print(round(n**3), 3)
+print(n**3, 3)
